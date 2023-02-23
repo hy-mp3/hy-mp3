@@ -6,7 +6,7 @@ Beginning Developer
 
 I make funny software.
 
-* 🌍  I'm based in California
+* 🌍  I'm based in California, United States
 * 🧠  I'm learning Python, JS
 * ⚡  I have no idea what I'm doing most of the time
 
