@@ -1,7 +1,7 @@
 Hi 👋 My name is unquiet
 ========================
 
-Very Basic Developer
+Fullstack Developer
 --------------------
 
 I started programming with Python and used it to create games and Discord bots. Currently, I am branching off of Python into C#, JavaScript, and SQL (I have practically 0 knowledge in these languages, but I like to say I do!)
