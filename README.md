@@ -8,7 +8,7 @@ I started programming with Python at a young age, but I am currently taking clas
 
 * 🌍  I'm based in Los Angeles, CA
 * 🧠  I'm learning Java
-* ⚡  I'm currently playing Baseball & Golf
+* ⚡  I'm currently playing baseball & golf
 
 ### Skills
 
